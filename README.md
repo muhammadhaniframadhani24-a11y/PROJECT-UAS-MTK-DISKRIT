@@ -1,6 +1,6 @@
 # NAMA : MUHAMMAD HANIF RAMADHANI
 # NIM : 312510291
-# MATA KULIAH : DISKRIT
+# MATA KULIAH : MATEMATIKA DISKRIT
 # Jenis Project UAS :Implementasi Graph Menggunakan Python dengan Algoritma DFS dan BFS
 -
 -

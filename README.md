@@ -12,3 +12,9 @@ Graph adalah struktur data yang terdiri dari:
 - **Edge (Sisi)** → merepresentasikan hubungan antar objek
 
 Secara matematis, graph dapat dituliskan sebagai:
+G = (V, E)
+Pada proyek ini digunakan graph tidak berarah (undirected graph), di mana setiap edge dapat dilalui dua arah
+# Implementasi Graph (Kode Program)
+Class Graph dan Adjacency List
+Pada bagian ini, graph direpresentasikan menggunakan Adjacency List, yaitu setiap simpul memiliki daftar tetangga yang terhubung dengannya.
+# Implementasi Class Graph & DFS
